@@ -1,0 +1,22 @@
+{
+  "name": "apis-folder-structure",
+  "version": "1.0.0",
+  "description": "folder structure of api with mvc pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saarthisharma/APIs-folder-structure.git"
+  },
+  "author": "saarthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saarthisharma/APIs-folder-structure/issues"
+  },
+  "homepage": "https://github.com/saarthisharma/APIs-folder-structure#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
