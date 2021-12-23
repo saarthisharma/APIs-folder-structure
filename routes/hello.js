@@ -5,3 +5,4 @@ hello = require('../controllers/hello');
 
 router.get('/' ,hello.hello)
 // now we will export this router
+module.exports = router;
